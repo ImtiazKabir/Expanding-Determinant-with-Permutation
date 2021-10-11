@@ -62,8 +62,8 @@ int main(
 
   clean_up(file, dim, matrix);
 
-    return EXIT_SUCCESS;
-  }
+  return EXIT_SUCCESS;
+}
 
 void setup(
   FILE * * const file_p,
